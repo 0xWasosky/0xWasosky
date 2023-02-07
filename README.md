@@ -1,16 +1,16 @@
-### Hi there 👋
+## Wassoky 
 
-<!--
-**0xWasosky/0xWasosky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+>> i'm a guy from italy 🍕
+>> i'm a C++ and Pytohn developer
+>> i have been using python for 2 years now :)
+Skills?
+[1] Socket programming
+[2] BackEnd programming
+[3] Networking
+[4] Cyber security
+[5] UI designer
+[6] Automation script
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+telegram: x
+
