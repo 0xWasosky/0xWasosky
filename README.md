@@ -5,8 +5,8 @@
   
 
 - I've been using Python for 2 years now  
-  
 
+  
 - I'm passionate about cyber security and networking   
   
 
@@ -60,6 +60,12 @@
 </td></tr></table>  
 
 <br/>  
+
+## Other skills
+
+- Socket programming
+- Ui designer ( qt ) 
+- Automation script
 
 
 ## Connect with me  
