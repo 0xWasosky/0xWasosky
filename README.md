@@ -1,11 +1,11 @@
 <h1 align="center">Hi, i'm Wassoky</h1>
 <h3 align="center">Just an italian developer</h3>
 
-- telegram **imwassoky**
 
 - Func fact **I'm passionate about cyber security**
 
 <h3 align="left">Connect with me:</h3>
+- telegram **imwassoky**
 <p align="left">
 </p>
 
