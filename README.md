@@ -6,7 +6,7 @@ i'm a C++ and Pytohn developer
 
 i have been using python for 2 years now :)
 
-Skills?
+What are my skills?
 
 > Socket programming
 
