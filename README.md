@@ -8,17 +8,17 @@ i have been using python for 2 years now :)
 
 Skills?
 
-[1] Socket programming
+> Socket programming
 
-[2] BackEnd programming
+> BackEnd programming
 
-[3] Networking
+> Networking
 
-[4] Cyber security
+> Cyber security
 
-[5] UI designer
+> UI designer
 
-[6] Automation script
+> Automation script
 
 
 telegram: x
