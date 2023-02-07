@@ -5,7 +5,7 @@
 - Func fact **I'm passionate about cyber security**
 
 <h3 align="left">Connect with me:</h3>
-- telegram **imwassoky**
+telegram: imwassoky
 <p align="left">
 </p>
 
