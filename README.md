@@ -2,8 +2,8 @@
   
 
 - I'm a Pytohn and C++ developer  
-  
-z
+
+
 - I've been using Python for 2 years now  
 
   
