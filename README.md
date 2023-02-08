@@ -57,7 +57,6 @@
 - Git
 - AWS
 - Socket programming
-- Ui designer ( qt ) 
 - Automation script
 
 
