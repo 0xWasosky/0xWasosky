@@ -59,6 +59,7 @@
 ## Learning
 
 - Go
+- Qt framework
 
 
 ## Connect with me  
