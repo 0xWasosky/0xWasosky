@@ -56,6 +56,10 @@
 - Socket programming
 - Automation script
 
+## Learning
+
+- Go
+
 
 ## Connect with me  
 
