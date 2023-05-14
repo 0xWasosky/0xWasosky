@@ -7,7 +7,7 @@
 - I've been using Python for 2 years now  
 
   
-- I'm passionate about cyber security and networking   
+- I'm passionate about cyber security and networking  
   
 
 <br/>  
