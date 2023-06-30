@@ -56,11 +56,6 @@
 - Socket programming
 - Automation script
 
-## Learning
-
-- Go
-- Qt framework
-
 
 ## Connect with me  
 
