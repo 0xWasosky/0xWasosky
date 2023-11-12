@@ -4,7 +4,7 @@
 - I'm a Pytohn and C++ developer  
 
 
-- I've been using Python for 2 years now  
+- I've been using Python for 3 years now  
 
   
 - I'm passionate about cyber security and networking  
