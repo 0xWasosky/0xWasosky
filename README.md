@@ -1,7 +1,7 @@
 ### <div align="center">I'm Wassoky just an Italian developer</div>  
   
 
-- I'm a Pytohn and C++ developer  
+- I'm a Pytohn and C developer  
 
 
 - I've been using Python for 3 years now  
