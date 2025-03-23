@@ -9,7 +9,6 @@
 
 - ⚡ Fun fact **I love cyber security, finding soloution to problems and it in general (im also a very dog person)**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
