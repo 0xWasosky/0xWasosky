@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Socket programming in C**
 
-- 💬 Ask me about **Everything! You can reach out on tg: https://t.me/imwassoky**
+- 💬 Ask me about **Everything! You can reach out on Telegram: https://t.me/imwassoky**
 
 - 📫 How to reach me **wassoky@gmail.com**
 
